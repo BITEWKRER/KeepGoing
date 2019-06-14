@@ -1,4 +1,0 @@
-pyinstaller -F -w -p C:\Users\Administrator\AppData\Local\Programs\Python\Python36\Lib\site-packages\pygame;C:\Users\Administrator\AppData\Local\Programs\Python\Python36\Lib;
-
-C:\Users\Administrator\Desktop\KeepGoing\sounds\expl.wav;C:\Users\Administrator\Desktop\KeepGoing\img\up.png;C:\Users\Administrator\Desktop\KeepGoing\img\right.png;C:\Users\Administrator\Desktop\KeepGoing\img\left.png;C:\Users\Administrator\Desktop\KeepGoing\img\down.png;C:\Users\Administrator\Desktop\KeepGoing\img\dot.png;pyinstaller -F -w -p C:\Users\Administrator\Desktop\KeepGoing\gameloop.py;C:\Users\Administrator\Desktop\KeepGoing\setting.py;C:\Users\Administrator\Desktop\KeepGoing\Sprite.py; main.py
-
